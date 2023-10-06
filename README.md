@@ -2,17 +2,6 @@
 
 <!--
 **ShaneWhitmore/ShaneWhitmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <p align="center">
@@ -21,5 +10,14 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShaneWhitmore&layout=compact&langs_count=8&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
+<br>
+
+- I am currently pursuing a <strong>Bachelors in Applied Computing, Internet of Things</strong>.
+- I am learning about <strong>NoSQL </strong> & <strong>Developer Operations</strong>.
+- My research interests are <strong>Vision Systems</strong>, <strong>AI</strong> & <strong>Machine Learning</strong>.
+- A Fun fact about me is that I built a model of a V8 engine when I was Eleven and built my first computer at sixteen.
+
+
 
 
