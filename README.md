@@ -27,6 +27,8 @@
 
 <br>
 
+### My Coding Langauges
+
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
 ![Java](https://img.shields.io/badge/Java-11-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
@@ -36,5 +38,19 @@
 ![C#](https://img.shields.io/badge/C%23-4.0-purple)
 ![MySQL](https://img.shields.io/badge/MySQL-5.7-blue)
 ![NoSQL](https://img.shields.io/badge/NoSQL-Database-green)
+
+ 
+<br>
+
+### My Tools/Software
+
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4B-red)
+![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![Windows](https://img.shields.io/badge/Windows-10-blue)
+![VMware](https://img.shields.io/badge/VMware-vSphere-blue)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-7.3-green)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2019-purple)
 
 
