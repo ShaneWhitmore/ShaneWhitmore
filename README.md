@@ -19,5 +19,22 @@
 - A Fun fact about me is that I built a model of a V8 engine when I was Eleven and built my first computer at sixteen.
 
 
+<br>
+<p align="center">
+  <picture ><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+</p>
+
+
+<br>
+
+[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
+![Java](https://img.shields.io/badge/Java-11-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![HTML 5](https://img.shields.io/badge/HTML-5-orange)
+![JSON](https://img.shields.io/badge/JSON-Data-green)
+![C#](https://img.shields.io/badge/C%23-4.0-purple)
+![MySQL](https://img.shields.io/badge/MySQL-5.7-blue)
+![NoSQL](https://img.shields.io/badge/NoSQL-Database-green)
 
 
