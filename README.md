@@ -13,7 +13,7 @@
 
 <br>
 
-- I am currently pursuing a <strong>Bachelors in Applied Computing, Internet of Things</strong>.
+- I am currently pursuing a <strong>Bachelors degree in Computer Science, Internet of Things</strong>.
 - I am learning about <strong>NoSQL </strong> & <strong>Developer Operations</strong>.
 - My research interests are <strong>Vision Systems</strong>, <strong>AI</strong> & <strong>Machine Learning</strong>.
 - A Fun fact about me is that I built a model of a V8 engine when I was Eleven and built my first computer at sixteen.
