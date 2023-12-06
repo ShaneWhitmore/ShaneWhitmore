@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://github.com/ShaneWhitmore">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShaneWhitmore&show_icons=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShaneWhitmore&layout=compact&langs_count=8&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShaneWhitmore&layout=compact&include_all_commits=true"/>
 </a>
 </p>
 
