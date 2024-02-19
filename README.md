@@ -46,7 +46,7 @@
 ### My Tools/Software
 
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4B-red)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-red)
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
 ![Windows](https://img.shields.io/badge/Windows-10-blue)
