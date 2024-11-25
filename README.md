@@ -53,6 +53,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-red)
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![Linux](https://img.shields.io/badge/Linux-Arch-blue)
 ![Windows](https://img.shields.io/badge/Windows-10-blue)
 ![VMware](https://img.shields.io/badge/VMware-vSphere-blue)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-7.3-green)
