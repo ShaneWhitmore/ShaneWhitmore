@@ -4,13 +4,17 @@
 **ShaneWhitmore/ShaneWhitmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<p align="center">
-<a href="https://github.com/ShaneWhitmore">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShaneWhitmore&show_icons=true&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/ShaneWhitmore">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShaneWhitmore&layout=compact&include_all_commits=true"/>
-</a>
+
+  <div align="center" style="display: inline-flex">
+
+  <a href="https://github.com/ShaneWhitmore">
+    <img height="180em" align="center" alt="ShaneWhitmore" src="https://github-readme-stats.vercel.app/api?username=ShaneWhitmore&show_icons=true&count_private=true" />
+  </a>
+  
+  <a href="https://github.com/ShaneWhitmore">
+    <img height="180em" align="center" alt="ShaneWhitmore" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneWhitmore&layout=compact&count_private=false" />
+  </a>
+</div>
 <br>
 
 - I am currently pursuing a <strong>Bachelors degree in Computer Science, Internet of Things</strong>.
